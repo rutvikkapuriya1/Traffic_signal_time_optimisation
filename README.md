@@ -9,4 +9,4 @@ Optimizing urban traffic signal timings for efficient flow, reduced congestion, 
 - Gamified Traffic Control Room
 - Live Detection of emergency vehicles
 
-![image](https://github.com/rutvikkapuriya1/Traffic_signal_time_optimisation/assets/133635206/141d375a-4b17-44e3-a1e5-f3a223ec8b22)
+![image](https://github.com/rutvikkapuriya1/Traffic_signal_time_optimisation/assets/133635206/141d375a-4b17-44e3-a1e5-f3a223ec8b22?s=200)
